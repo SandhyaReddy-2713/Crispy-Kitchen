@@ -1,0 +1,7 @@
+version: '3.0'
+services:
+  httpd-service:
+    image: sandhyareddy2713/crispy-kitchen-image
+    ports:
+      - 85:80
+
